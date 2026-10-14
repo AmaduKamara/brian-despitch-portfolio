@@ -1,0 +1,459 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgba(6, 18, 69, 0.886);
+}
+
+nav ul li {
+  list-style: none;
+}
+
+.logo ul li {
+  list-style: none;
+  
+}
+
+.logo ul li a{
+  color: orange;
+  font-size: 40px;
+}
+
+.container {
+  width: 85%;
+  margin: auto;
+}
+
+header {
+  padding: 18px 40px;
+  background-color: rgba(6, 18, 69, 0.886);
+  font-size: 20px;
+}
+
+.buy-btn {
+  display: flex;
+  gap: 10px;
+}
+
+.buy-btn button {
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  align-items: center;
+}
+
+.buy-btn-1 {
+  display: flex;
+  gap: 10px;
+}
+
+.buy-btn-1 button {
+  background-color: white;
+  color: orange;
+  border: none;
+  padding: 10px 20px;
+  align-items: center;
+}
+
+.cart {
+  color: orange;
+  align-items: center;
+  font-size: 20px;
+  padding-top: 8px;
+}
+
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a {
+  color: #fff;
+  align-items: center;
+}
+
+.logo ul {
+  display: flex;
+  gap: 2px;
+}
+
+.nav-list nav ul {
+  display: flex;
+  gap: 30px;
+}
+
+.nav-btn {
+  display: flex;
+  gap: 10px;
+}
+
+.hero {
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.667)),
+    url("../images/ser.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+}
+
+.hero-content {
+  position: absolute;
+  bottom: 70px;
+  left: 40px;
+}
+
+.hero-content h1 {
+  color: orange;
+  font-size: 75px;
+}
+
+.hero-content p {
+  color: #fff;
+  font-size: 40px;
+}
+
+.logo ul li {
+  list-style: none;
+}
+
+.nav-list nav ul {
+  display: flex;
+  gap: 30px;
+}
+
+.nav-btn {
+  display: flex;
+  gap: 10px;
+}
+
+.q1 {
+  background-color: #fff;
+  margin: 30px 0;
+}
+
+.wqq {
+  text-align: center;
+  padding: 20px 8px;
+  font-size: 15px;
+  color: orange;
+}
+
+.wqqe h2 {
+  font-size: 45px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.wqqe p {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.wert {
+  background-color: rgba(6, 18, 69, 0.886);
+  color: #fff;
+  overflow: hidden;
+  border-radius: 30px;
+  padding: 30px;
+  margin: 40px 0;
+  display: flex;
+  gap: 20px;
+}
+
+.fgyu {
+  position: relative;
+  width: 60%;
+}
+
+.fgyu h2 {
+  font-size: 30px;
+  color: orange;
+}
+
+.fgyu p {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.uyt {
+  padding: 20px;
+  align-items: center;
+  display: flex;
+  gap: 10px;
+}
+
+.iuytryu h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.iuytryu p {
+  text-align: center;
+}
+
+.iuytryu {
+  border-radius: 30px;
+  padding: 20px;
+  background-color: rgba(190, 181, 181, 0.463);
+}
+
+.trfdwesd99 {
+  padding: 30px 0;
+  align-items: center;
+  color: #fff;
+  display: flex;
+  gap: 10px;
+}
+
+.rtr454 {
+  color: orange;
+  font-size: 40px;
+  width: 75%;
+  margin: auto;
+}
+
+.tygfd2345 {
+  width: 70%;
+  font-size: 20px;
+}
+
+.fos-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 70px;
+  margin-top: 40px;
+}
+
+.fos-2 a {
+  color: white;
+  font-size: 20px;
+}
+.fos-3 ul {
+  padding-top: 10px;
+  line-height: 20px;
+}
+
+.fos-3 ul li {
+  list-style: none;
+}
+
+.copyright {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.a111 {
+  position: relative;
+}
+
+.a111 input {
+  width: 100%;
+}
+
+.a111 button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 13.4px;
+  padding: 0 30px;
+  border-radius: 50px;
+  margin-right: 5px;
+  border: none;
+  background-color: orange;
+  color: #fff;
+  font-size: 25px;
+}
+
+footer {
+  background-color: rgba(6, 18, 69, 0.886);
+  color: #fff;
+  padding: 20px 40px;
+  margin-top: 30px;
+}
+
+.news-text ul li {
+  list-style: none;
+}
+
+.news-text ul {
+  display: flex;
+}
+
+.footer-icons {
+  font-size: 50px;
+  margin-top: 20px;
+}
+
+.icon {
+  color: orange;
+  font-size: 80px;
+}
+
+.gfdsfhjg {
+  font-size: 130px;
+  position: absolute;
+  bottom: 10px;
+  left: 120px;
+  color: orange;
+}
+
+.hjgppsr {
+  font-size: 130px;
+  position: absolute;
+  bottom: 10px;
+  left: 120px;
+  color: orange;
+}
+
+.rtgfeds {
+  text-align: center;
+  font-size: 50px;
+  color: orange;
+}
+
+/* ==========================================
+   RESPONSIVE MEDIA QUERIES FOR ALL SCREEN SIZES
+   ========================================== */
+
+/* Tablet Screens (max-width: 992px) */
+@media screen and (max-width: 992px) {
+  header {
+    padding: 15px 20px;
+  }
+
+  .nav-header {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .nav-list nav ul {
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .hero-content h1 {
+    font-size: 55px;
+  }
+
+  .hero-content p {
+    font-size: 28px;
+  }
+
+  .wqqe h2 {
+    font-size: 38px;
+  }
+
+  .rtr454 {
+    max-width: 90%;
+    font-size: 32px;
+  }
+
+  .tygfd2345 {
+    max-width: 90%;
+  }
+}
+
+/* Mobile Screens (max-width: 768px) */
+@media screen and (max-width: 768px) {
+  .container {
+    width: 92%;
+  }
+
+  .nav-list nav ul {
+    font-size: 16px;
+    gap: 10px;
+  }
+
+  .nav-btn, .buy-btn, .buy-btn-1 {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .nav-btn button, .buy-btn button, .buy-btn-1 button {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .hero-content {
+    left: 20px;
+    bottom: 30px;
+    padding-right: 20px;
+  }
+
+  .hero-content h1 {
+    font-size: 40px;
+  }
+
+  .hero-content p {
+    font-size: 20px;
+  }
+
+  .wqqe h2 {
+    font-size: 30px;
+  }
+
+  .wqqe p {
+    font-size: 16px;
+  }
+
+  .rtgfeds {
+    font-size: 36px;
+  }
+
+  .rtr454 {
+    font-size: 26px;
+    max-width: 100%;
+  }
+
+  .tygfd2345 {
+    max-width: 100%;
+    font-size: 16px;
+  }
+
+  .fos-1 {
+    flex-direction: column;
+    gap: 30px;
+  }
+}
+
+/* Small Mobile Screens (max-width: 480px) */
+@media screen and (max-width: 480px) {
+  .logo ul li a {
+    font-size: 30px;
+  }
+
+  .hero-content h1 {
+    font-size: 32px;
+  }
+
+  .hero-content p {
+    font-size: 16px;
+  }
+
+  .wqqe h2 {
+    font-size: 24px;
+  }
+
+  .rtgfeds {
+    font-size: 28px;
+  }
+
+  header {
+    padding: 10px;
+  }
+}
